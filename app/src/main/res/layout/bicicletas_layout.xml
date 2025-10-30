@@ -20,7 +20,7 @@
             android:layout_width="130dp"
             android:layout_height="60dp"
             android:layout_marginTop="20sp"
-            android:text="@string/voltar"
+            android:text="voltar"
             android:textAllCaps="true"
             android:textColor="#FD9700"
             app:cornerRadius="6dp"

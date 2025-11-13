@@ -14,6 +14,11 @@
     <string name="texto_recupera_senha">Agora insira o código que te enviamos por e-mail e celular para criar uma nova senha</string>
     <string name="cadastre_se">Cadastre-se</string>
     <string name="confirme_sua_senha">Confirme sua senha</string>
-    <string name="bicicletas">Bicicletas</string>
+    <string name="bolos">bolos</string>
     <string name="menu_principal">Menu Principal</string>
+    <string name="horarios">Horários</string>
+    <string name="planos">Planos</string>
+    <string name="reservas">Reservas</string>
+    <string name="listas">Listas</string>
+    <string name="sac">SAC</string>
 </resources>

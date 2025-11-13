@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MenuPrincipalActivity"
-    android:background="@drawable/bolobemgosotoso">
+    android:background="#ff8c94">
 
 
     <com.google.android.material.button.MaterialButton
@@ -18,11 +18,12 @@
         android:layout_margin="20dp"
         android:text="@string/voltar"
         android:textAllCaps="true"
-        android:textColor="#3FFD00"
+        android:textColor="#aaf2e4"
+        android:textStyle="bold"
         app:cornerRadius="6dp"
         app:icon="@drawable/baseline_arrow_back"
-        app:iconTint="#3FFD00"
-        app:strokeColor="#3FFD00"
+        app:iconTint="#aaf2e4"
+        app:strokeColor="#aaf2e4"
         app:strokeWidth="2sp" />
 
 
@@ -48,14 +49,16 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                >
 
                 <ImageView
                     android:layout_width="190dp"
                     android:layout_height="190dp"
                     android:scaleType="centerCrop"
                     android:src="@drawable/logo"
-                    android:background="@drawable/"/>
+
+                    />
 
                 <TextView
                     android:layout_width="wrap_content"
